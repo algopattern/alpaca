@@ -1,0 +1,25 @@
+# Theme metadata
+name = "thentrythis"
+
+# Is theme light or dark?
+light = true
+
+green     = "#1d5f51"
+pink      = "#f46bbd"
+darkbrown = "#5b5c5e"
+lightblue = "#b9ccd3"
+lightgrey = "#dfe0e4"
+
+
+# Primary
+primary = "#1d5f51"
+
+# Menu
+menu_primary = "#f46bbd"
+menu_text = "#1d5f51"
+menu_text_active = "#fff"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"

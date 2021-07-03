@@ -2,30 +2,36 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
-hero_media: book.svg
+title: Algorithmic Pattern Catalogue
+hero_media: square-grey-left.svg
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    text_color_light: true
+    gradient_start: "#dfe0e4"
+    gradient_end: '#b9ccd3'
+    text_color_light: false
 cta:
-  url: docs/
-  label: Get Started
-  icon_pack: fas
-  icon: download
+  url: https://forum.alpaca.lurk.org/
+  label: Forum
+  icon_pack: fab
+  icon: discourse
 cta_alt:
-  url: docs/
-  label: View Documentation
-cta_note:
-  label: >-
-    <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
-      Show your product version here:<!-- Automatically filled based on data-repo value -->
-    </span>
+  url: resources/
+  label: Resources
+# cta_note:
+#  label: >-
+#    <span>
+#      A <a href="https://thentrythis.org">Then Try This</a> project.
+#    </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+A site for exploring "algorithmic patterns", where pattern operations
+are composed together and notated as an algorithm, which when followed
+creates results which are difficult to anticipate. 
 
-Write something interesting about your project here.
+With this possibility for surprise, algorithmic patterns foreground
+human perception in the making process.
 
-<a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-modules" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/starter-hugo-project-documentation" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Project Docs template</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+So far we have a forum, exploring readings around algorithmic
+patterns, and are building up a set of related resources.
+
+
