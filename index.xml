@@ -12,5 +12,73 @@
       <link>https://alpaca.lurk.org/</link>
     </image>
     
+    <item>
+      <title>Resources</title>
+      <link>https://alpaca.lurk.org/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alpaca.lurk.org/resources/</guid>
+      <description>&lt;p&gt;External resources and events related to the Algorithmic Pattern theme.&lt;/p&gt;
+&lt;h2 id=&#34;projects&#34;&gt;Projects&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;[Sampler Culture-Clash)[https://sampler-cultureclash.tumblr.com/] - Sampler - Culture Clash is a collaborative project initiated by David Littler, bringing the two cultures of embroidery and DJ-ing together to see what might happen when the two cultures clash.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stitchingworlds.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stitching Worlds&lt;/a&gt; (2014-2018) - Lead by Ebru Kurbak and Irene Posch, Stitching Worlds blends the territories of textiles and electronics by investigating textile technologies as controversial means for manufacturing electronic objects. The investigation was conducted with critical and artistic intentions through the creation of past-, present-, and future-tense narratives. What if electronics emerged from textile techniques, such as knitting, weaving, crochet, and embroidery?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://penelope.hypotheses.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PENELOPE&lt;/a&gt; - Research project lead by Ellen Harlizius-Klück aiming to integrate ancient weaving into the history of science and technology, especially digital technology. The project encompasses the investigation of ancient sources as well as practices and technological principles of ancient weaving.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.beritgreinke.net/research/folding-electronic-textiles&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Folding Electronic Textiles&lt;/a&gt; - Research project lead by Berit Greinke, investigating how novel soft circuits can be created through constructing electronic functionality as sculpted dynamic objects, rather than as plane surfaces.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sonicwriting.org/blog/intent&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intelligent Instruments&lt;/a&gt; - Research project lead by Thor Magnusson, studying the impact of creative AI, conducted in the research domain of music, with a broad humanities basis, involving musicians, computer scientists, philosophers and cognitive scientists in key international institutions. Through a streamlined research collaboration protocol, we seek to explore the language and discourse of creative AI, addressing our changed notions of, for example, agency, autonomy, authenticity, authorship, creativity and originality&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://onthefly.space/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On-the-fly&lt;/a&gt; - a project promoting Live Coding practice, a performative technique focused on writing algorithms in real-time so that the one who writes is part of the algorithm. Lead by Hangar Barcelona in collaboration with ZKM, Ljudmila and Creative Coding Utrecht.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;conferences-and-periodicals&#34;&gt;Conferences and periodicals&lt;/h2&gt;
+&lt;h3 id=&#34;computer-science-and-hci&#34;&gt;Computer science and HCI&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://programming-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PROGRAMMING&lt;/a&gt; - &lt;a href=&#34;https://2022.programming-conference.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2022&lt;/a&gt; International Conference on the Art, Science, and Engineering of Programming&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://splashcon.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPLASH&lt;/a&gt;: ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://functional-art.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FARM&lt;/a&gt;: ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://liveprog.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIVE&lt;/a&gt;: Workshop on Live Programming&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sigchi.org/conferences/calendar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM SIGCHI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CSCW - &lt;a href=&#34;https://cscw.acm.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ecscw.eusset.eu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ECSCW&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tei.acm.org/2022/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM International Conference on Tangible, Embedded and Embodied Interaction&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ACM International Conference on Functional Programming - &lt;a href=&#34;https://icfp21.sigplan.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ppig.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Psychology of Programming Interest Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;computational-aestheticsarts-technology&#34;&gt;Computational aesthetics/arts technology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://computingwithinlimits.org/2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Computing within limits&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cc.acm.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ACM Creativity and Cognition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.movementcomputing.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Conference on Movement and Computing&lt;/a&gt; (MOCO)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.performance-research.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Performance Research Journal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.xcoax.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;XCoAx&lt;/a&gt; - Computation, Communication, Aesthetics &amp;amp; X&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computermusic.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICMC&lt;/a&gt; - International Computer Music Conference&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nime.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIME&lt;/a&gt; - New Interfaces for Musical Expression&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://live-interfaces.github.io/liveinterfaces2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLC&lt;/a&gt; - International Conference on Live Coding&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://direct.mit.edu/comj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CMJ&lt;/a&gt; - Computer Music Journal&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hybrid-livecode.pubpub.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HLCI&lt;/a&gt; - Hybrid Live Coding Interfaces&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://live-interfaces.github.io/liveinterfaces2020/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICLI&lt;/a&gt; - International Conference on Live Interfaces&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tandfonline.com/toc/rpdm20/current&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IJPADM&lt;/a&gt; - International Journal on Performance Arts and Digital Media&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;textiles-and-craft&#34;&gt;Textiles and craft&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://journals.sagepub.com/home/trj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TEXTILE journal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.textile-intersections.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Textile Intersections conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://e-textilesconference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;E-Textiles conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://craftsciencesconference.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BICCS&lt;/a&gt; - Biennial International Conference for the Craft Sciences&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.centerforcraft.org/craft-ways-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Craft Ways&lt;/a&gt; - Craft Ways 2021: Tending to Craft&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;patterns-in-nature&#34;&gt;Patterns in nature&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.smb.org/meetings/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SMB&lt;/a&gt; - Society for Mathematical Biology Annual Meeting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;online-discussion-forums&#34;&gt;Online discussion forums&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.alpaca.lurk.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alpaca forum&lt;/a&gt; - our own forum hosting discussions around the Algorithmic Pattern theme.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.criticalcraftforum.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Critical Craft Forum&lt;/a&gt; - has an active &lt;a href=&#34;https://www.facebook.com/Critical-Craft-Forum-Page-102051938180737&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;facebook group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://llllllll.co/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lines&lt;/a&gt; - similar to scanlines, leaning more towards the audio side of electronic art.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=new-media-curating&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;New Media Curating&lt;/a&gt; - email-based discussion for those involved in curating, exhibiting, archiving or interpreting new media art.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://scanlines.xyz/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scanlines&lt;/a&gt; - &amp;ldquo;a friendly place to discuss diy video and audio projects, electronic-based art, and related interests&amp;rdquo; - leans towards video art.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://toplap.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TOPLAP&lt;/a&gt; - Temporary Organisation for the Promotion of Algorithm Programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

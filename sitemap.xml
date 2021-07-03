@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alpaca.lurk.org/resources/</loc>
+    <lastmod>2021-07-03T22:28:37+01:00</lastmod>
+  </url><url>
     <loc>https://alpaca.lurk.org/</loc>
   </url><url>
     <loc>https://alpaca.lurk.org/authors/</loc>
