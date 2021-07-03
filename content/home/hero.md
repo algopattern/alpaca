@@ -28,9 +28,6 @@ A site for exploring "algorithmic patterns", where pattern operations
 are composed together and notated as an algorithm, which when followed
 creates results which are difficult to anticipate. 
 
-With this possibility for surprise, algorithmic patterns foreground
-human perception in the making process.
-
 So far we have a forum, exploring readings around algorithmic
 patterns, and are building up a set of related resources.
 
