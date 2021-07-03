@@ -41,7 +41,7 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/algopattern/algopattern.github.io'
+  repo_url: 'https://github.com/algopattern/alpaca'
   content_dir: 'content'
   repo_branch: main
   editable:
