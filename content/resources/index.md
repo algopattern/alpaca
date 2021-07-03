@@ -15,7 +15,7 @@ External resources and events related to the Algorithmic Pattern theme.
 
 ## Projects
 
-* [Sampler Culture-Clash)[https://sampler-cultureclash.tumblr.com/] - Sampler - Culture Clash is a collaborative project initiated by David Littler, bringing the two cultures of embroidery and DJ-ing together to see what might happen when the two cultures clash.
+* [Sampler Culture-Clash](https://sampler-cultureclash.tumblr.com/) - Sampler - Culture Clash is a collaborative project initiated by David Littler, bringing the two cultures of embroidery and DJ-ing together to see what might happen when the two cultures clash.
 * [Stitching Worlds](https://www.stitchingworlds.net/) (2014-2018) - Lead by Ebru Kurbak and Irene Posch, Stitching Worlds blends the territories of textiles and electronics by investigating textile technologies as controversial means for manufacturing electronic objects. The investigation was conducted with critical and artistic intentions through the creation of past-, present-, and future-tense narratives. What if electronics emerged from textile techniques, such as knitting, weaving, crochet, and embroidery? 
 * [PENELOPE](https://penelope.hypotheses.org/) - Research project lead by Ellen Harlizius-Klück aiming to integrate ancient weaving into the history of science and technology, especially digital technology. The project encompasses the investigation of ancient sources as well as practices and technological principles of ancient weaving.
 * [Folding Electronic Textiles](https://www.beritgreinke.net/research/folding-electronic-textiles) - Research project lead by Berit Greinke, investigating how novel soft circuits can be created through constructing electronic functionality as sculpted dynamic objects, rather than as plane surfaces.
