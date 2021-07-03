@@ -16,7 +16,7 @@ jobs:
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
       with:
-        image: pandoc
+        image: ext-pandoc
         pandoc_command: "pandoc-default --citeproc --bibliography=data/bibliography.json"
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
