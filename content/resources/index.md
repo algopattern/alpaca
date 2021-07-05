@@ -24,7 +24,7 @@ External resources and events related to the Algorithmic Pattern theme.
 
 ## Conferences and periodicals
 
-### Computer science and HCI
+### Computer science, Mathematics and HCI
 
 * [PROGRAMMING](https://programming-conference.org/) - [2022](https://2022.programming-conference.org/) International Conference on the Art, Science, and Engineering of Programming
 * [SPLASH](https://splashcon.org/): ACM SIGPLAN conference on Systems, Programming, Languages, and Applications: Software for Humanity
@@ -36,6 +36,10 @@ External resources and events related to the Algorithmic Pattern theme.
 * [ACM International Conference on Tangible, Embedded and Embodied Interaction](https://tei.acm.org/2022/)
 * ACM International Conference on Functional Programming - [2021](https://icfp21.sigplan.org/)
 * [Psychology of Programming Interest Group](https://www.ppig.org/)
+* [International Conference on Computer Analysis of Images and Patterns](http://caip.eu.org/)
+* [International Conference on Permutation Patterns](https://permutationpatterns.com/)
+* [International Conference on Pervasive Patterns and Applications](https://www.iaria.org/conferences/PATTERNS.html)
+* [Pattern Languages of Programs](https://www.hillside.net/plop/2021/) and [European Conference on Pattern Languages of Programs](https://europlop.net/content/pattern-conferences)
 
 ### Computational aesthetics/arts technology
 * [Computing within limits](https://computingwithinlimits.org/2021/)
