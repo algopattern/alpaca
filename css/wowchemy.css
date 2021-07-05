@@ -9489,3 +9489,6 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+p.powered-by:last-child {
+  display: none; }
