@@ -31,8 +31,7 @@ External resources and events related to the Algorithmic Pattern theme.
 * [FARM](https://functional-art.org/): ACM SIGPLAN International Workshop on Functional Art, Music, Modeling and Design
 * [LIVE](https://liveprog.org/): Workshop on Live Programming
 * [ACM SIGCHI](https://sigchi.org/conferences/calendar/)
-* CSCW - [2021](https://cscw.acm.org/2021/)
-* [ECSCW](https://ecscw.eusset.eu/)
+* [CSCW](https://cscw.acm.org/) and [ECSCW](https://ecscw.eusset.eu/) - Computer Supported Cooperative Work
 * [ACM International Conference on Tangible, Embedded and Embodied Interaction](https://tei.acm.org/2022/)
 * ACM International Conference on Functional Programming - [2021](https://icfp21.sigplan.org/)
 * [Psychology of Programming Interest Group](https://www.ppig.org/)
