@@ -1,7 +1,4 @@
-# IDEs
-.idea/
-
-# Hugo
-resources/
+/resources/
 public/
 jsconfig.json
+*~
