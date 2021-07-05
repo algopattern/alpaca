@@ -21,6 +21,7 @@ External resources and events related to the Algorithmic Pattern theme.
 * [Folding Electronic Textiles](https://www.beritgreinke.net/research/folding-electronic-textiles) - Research project lead by Berit Greinke, investigating how novel soft circuits can be created through constructing electronic functionality as sculpted dynamic objects, rather than as plane surfaces.
 * [Intelligent Instruments](http://www.sonicwriting.org/blog/intent) - Research project lead by Thor Magnusson, studying the impact of creative AI, conducted in the research domain of music, with a broad humanities basis, involving musicians, computer scientists, philosophers and cognitive scientists in key international institutions. Through a streamlined research collaboration protocol, we seek to explore the language and discourse of creative AI, addressing our changed notions of, for example, agency, autonomy, authenticity, authorship, creativity and originality
 * [On-the-fly](https://onthefly.space/) - a project promoting Live Coding practice, a performative technique focused on writing algorithms in real-time so that the one who writes is part of the algorithm. Lead by Hangar Barcelona in collaboration with ZKM, Ljudmila and Creative Coding Utrecht.
+* [Kobakant DIY Wearable tech documenation](https://www.kobakant.at/DIY/) - Excellent e-textile blog with howtos
 
 ## Conferences and periodicals
 
