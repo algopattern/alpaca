@@ -9492,3 +9492,6 @@ div.chart {
 
 p.powered-by:last-child {
   display: none; }
+
+a:link {
+  text-decoration: underline; }
