@@ -16,12 +16,13 @@ External resources and events related to the Algorithmic Pattern theme.
 ## Projects
 
 * [Sampler Culture-Clash](https://sampler-cultureclash.tumblr.com/) - Sampler - Culture Clash is a collaborative project initiated by David Littler, bringing the two cultures of embroidery and DJ-ing together to see what might happen when the two cultures clash.
-* [Stitching Worlds](https://www.stitchingworlds.net/) (2014-2018) - Lead by Ebru Kurbak and Irene Posch, Stitching Worlds blends the territories of textiles and electronics by investigating textile technologies as controversial means for manufacturing electronic objects. The investigation was conducted with critical and artistic intentions through the creation of past-, present-, and future-tense narratives. What if electronics emerged from textile techniques, such as knitting, weaving, crochet, and embroidery? 
+* [Stitching Worlds](https://www.stitchingworlds.net/) (2014-2018) - Lead by Ebru Kurbak and Irene Posch, Stitching Worlds blends the territories of textiles and electronics by investigating textile technologies as controversial means for manufacturing electronic objects. The investigation was conducted with critical and artisustic intentions through the creation of past-, present-, and future-tense narratives. What if electronics emerged from textile techniques, such as knitting, weaving, crochet, and embroidery? 
 * [PENELOPE](https://penelope.hypotheses.org/) - Research project lead by Ellen Harlizius-Klück aiming to integrate ancient weaving into the history of science and technology, especially digital technology. The project encompasses the investigation of ancient sources as well as practices and technological principles of ancient weaving.
 * [Folding Electronic Textiles](https://www.beritgreinke.net/research/folding-electronic-textiles) - Research project lead by Berit Greinke, investigating how novel soft circuits can be created through constructing electronic functionality as sculpted dynamic objects, rather than as plane surfaces.
 * [Intelligent Instruments](http://www.sonicwriting.org/blog/intent) - Research project lead by Thor Magnusson, studying the impact of creative AI, conducted in the research domain of music, with a broad humanities basis, involving musicians, computer scientists, philosophers and cognitive scientists in key international institutions. Through a streamlined research collaboration protocol, we seek to explore the language and discourse of creative AI, addressing our changed notions of, for example, agency, autonomy, authenticity, authorship, creativity and originality
 * [On-the-fly](https://onthefly.space/) - a project promoting Live Coding practice, a performative technique focused on writing algorithms in real-time so that the one who writes is part of the algorithm. Lead by Hangar Barcelona in collaboration with ZKM, Ljudmila and Creative Coding Utrecht.
 * [Kobakant DIY Wearable tech documenation](https://www.kobakant.at/DIY/) - Excellent e-textile blog with howtos
+* [Turing pattern project](http://natashaellison.co.uk/the-turing-pattern-project/) - collaborative UK-wide activity for primary schools to learn about Turing and use his mathematical ideas to understand more about patterns in nature, lead by Natasha Ellison
 
 ## Conferences and periodicals
 
@@ -62,6 +63,8 @@ External resources and events related to the Algorithmic Pattern theme.
 * [E-Textiles conference](https://e-textilesconference.com/)
 * [BICCS](https://craftsciencesconference.com/) - Biennial International Conference for the Craft Sciences
 * [Craft Ways](https://www.centerforcraft.org/craft-ways-2021) - Craft Ways 2021: Tending to Craft
+* [Weave podcast](https://www.gistyarn.com/blogs/podcast) - bringing together a community of weavers and makers, farmers and mill owners, loom manufacturers, textile artists, and sustainability experts, to tell the stories of the threads that bind us together
+
 
 ### Patterns in nature
 
