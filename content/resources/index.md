@@ -23,8 +23,9 @@ External resources and events related to the Algorithmic Pattern theme.
 * [On-the-fly](https://onthefly.space/) - a project promoting Live Coding practice, a performative technique focused on writing algorithms in real-time so that the one who writes is part of the algorithm. Lead by Hangar Barcelona in collaboration with ZKM, Ljudmila and Creative Coding Utrecht.
 * [Kobakant DIY Wearable tech documenation](https://www.kobakant.at/DIY/) - Excellent e-textile blog with howtos
 * [Turing pattern project](http://natashaellison.co.uk/the-turing-pattern-project/) - collaborative UK-wide activity for primary schools to learn about Turing and use his mathematical ideas to understand more about patterns in nature, lead by Natasha Ellison
+* [Low-cost Jacquard handloom](http://lea.zone/jacquard_handweaving.html) - an inexpensive tabletop loom that offers fully computational patterning while maintaining the flexibility of handweaving, by Lea Albaugh.
 
-## Conferences and periodicals
+## Conferences, periodicals and podcasts
 
 ### Computer science, Mathematics and HCI
 
